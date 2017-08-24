@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Android Server</string>
+    <string name="my_name">Francisco J. Caracuel</string>
+    
+    <string name="name">Nombre</string>
+    <string name="number">Número</string>
+    <string name="date">Fecha</string>
+    <string name="message">Mensaje</string>
+    
+    <string name="no_wifi">No estás conectado a ningún WiFi</string>
+
+</resources>
